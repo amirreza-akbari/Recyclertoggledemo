@@ -46,5 +46,5 @@ Each item is displayed in a modern **CardView** with an image, title, and subtit
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/RecyclerViewToggleLayout.git
+   git clone https://github.com/amirreza-akbari/RecyclerViewToggleLayout.git
 
