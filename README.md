@@ -29,3 +29,22 @@ Each item is displayed in a modern **CardView** with an image, title, and subtit
 
 ## 📁 Project Structure
 
+---
+
+## 🧩 How It Works
+
+1. The app starts with a **single-column** RecyclerView layout.  
+2. When the **Switch** is toggled, it dynamically updates the layout manager to **GridLayoutManager(2)** for a two-column view.  
+3. Each item in the RecyclerView displays:
+   - 🖼️ An image  
+   - 📝 A title  
+   - 💬 A subtitle  
+
+---
+
+## 🚀 How to Run
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/RecyclerViewToggleLayout.git
+
